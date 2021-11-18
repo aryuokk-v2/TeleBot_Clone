@@ -4,14 +4,14 @@
 
     
 ## Documentation
-For passionate readers 😂 the documentation can be found [here]https://github.com/arupmandal/TeleBot/)
+For passionate readers 😂 the documentation can be found [here]https://github.com/stark-Prince/TeleBot_Clone)
 
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arupmandal/TeleBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stark-Prince/TeleBot_Clone)
 
 ## Support
-Join [TeleBot Support group](https://t.me/iamarupmandal) for updates and new plugin suggestions.
+Join [TeleBot Support group](https://t.me/roBots_Hub) for updates and new plugin suggestions.
 Do fork and star the repo 
 
 ### Session String 
